@@ -1,0 +1,1 @@
+[{"text":"The tallest building in Orlando is the (SunTrust Center) at 441  feet.","makeMore":true},{"text":"Thomas Gilbert Lee, founder of Olando's TG Lee dairy, is buried at (Greenwood) Cemetery.","makeMore":false}]

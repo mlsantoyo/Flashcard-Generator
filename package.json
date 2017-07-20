@@ -1,0 +1,22 @@
+{
+  "name": "flashcard_generator",
+  "version": "1.0.0",
+  "description": "allow user to make basic or cloze flashcards",
+  "main": "FlashCards.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlsantoyo/Flashcard-Generator.git"
+  },
+  "author": "msantoyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlsantoyo/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/mlsantoyo/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.2.0"
+  }
+}
